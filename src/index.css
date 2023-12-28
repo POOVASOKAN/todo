@@ -1,0 +1,18 @@
+body{
+  background: url(https://images.pexels.com/photos/5185173/pexels-photo-5185173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  overflow: hidden;
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+   gap: 60%;
+}
+
+
